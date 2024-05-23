@@ -1,0 +1,7 @@
+n = input('Say something: ')
+print(n.isalpha())
+print(n.isdecimal())
+print(n.isnumeric())
+print(n.isdigit())
+print(n.isupper())
+print(n.islower())
